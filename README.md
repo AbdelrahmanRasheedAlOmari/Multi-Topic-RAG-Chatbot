@@ -2,6 +2,7 @@
 
 A conversational AI system that uses Retrieval-Augmented Generation (RAG) to provide informed responses across multiple topics. The chatbot leverages LangChain, ChromaDB, and OpenAI to process and retrieve information from a curated collection of documents.
 
+Chatbot link: https://875627278d9993e811.gradio.live
 ## Features
 
 - Multi-topic support covering:
