@@ -1,0 +1,48 @@
+# Environment variables
+.env
+
+# Virtual environment
+myenv/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# ChromaDB
+.chroma/
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Local development settings
+local_settings.py
+
+# Test cache
+.pytest_cache/
+.coverage
+htmlcov/ 
